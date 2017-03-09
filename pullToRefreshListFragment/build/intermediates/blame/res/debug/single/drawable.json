@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\android_stutio_gongzuokongjian\\ChenJiangFeng\\pullToRefreshListFragment\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_top.xml",
+        "source": "E:\\android_stutio_gongzuokongjian\\ChenJiangFeng\\pullToRefreshListFragment\\build\\intermediates\\exploded-aar\\ChenJiangFeng\\library\\unspecified\\res\\drawable\\indicator_bg_top.xml"
+    },
+    {
+        "merged": "E:\\android_stutio_gongzuokongjian\\ChenJiangFeng\\pullToRefreshListFragment\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_bottom.xml",
+        "source": "E:\\android_stutio_gongzuokongjian\\ChenJiangFeng\\pullToRefreshListFragment\\build\\intermediates\\exploded-aar\\ChenJiangFeng\\library\\unspecified\\res\\drawable\\indicator_bg_bottom.xml"
+    }
+]

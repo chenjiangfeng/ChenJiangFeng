@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\android_stutio_gongzuokongjian\\ChenJiangFeng\\pullToRefreshListFragment\\build\\intermediates\\res\\merged\\debug\\layout\\need_this_for_maven.xml",
+        "source": "E:\\android_stutio_gongzuokongjian\\ChenJiangFeng\\pullToRefreshListFragment\\src\\main\\res\\layout\\need_this_for_maven.xml"
+    },
+    {
+        "merged": "E:\\android_stutio_gongzuokongjian\\ChenJiangFeng\\pullToRefreshListFragment\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_horizontal.xml",
+        "source": "E:\\android_stutio_gongzuokongjian\\ChenJiangFeng\\pullToRefreshListFragment\\build\\intermediates\\exploded-aar\\ChenJiangFeng\\library\\unspecified\\res\\layout\\pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "E:\\android_stutio_gongzuokongjian\\ChenJiangFeng\\pullToRefreshListFragment\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_vertical.xml",
+        "source": "E:\\android_stutio_gongzuokongjian\\ChenJiangFeng\\pullToRefreshListFragment\\build\\intermediates\\exploded-aar\\ChenJiangFeng\\library\\unspecified\\res\\layout\\pull_to_refresh_header_vertical.xml"
+    }
+]
